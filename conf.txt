@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 master a baal
+=======
+baal amar
+>>>>>>> newBranch2
+
+conflict solve korsi
